@@ -1,0 +1,18 @@
+/*
+  This is a simple CSS file I pass as -c when generating a HTML
+  file out of my markdown file with a bunch of links inside, using
+  Pandoc.
+*/
+
+body {
+    width: 960px;
+    margin: 0 150px 50px;
+    font: 13px/1.3 'DejaVu Sans', sans-serif;
+    color: rgb(102, 102, 102);
+}
+
+h1 { margin: 1.125em 0 -0.3em; }
+
+a:link { color: rgb(65, 131, 196); text-decoration: none; }
+a:visited { color: rgb(65, 131, 196); text-decoration: none; }
+a:hover { color: rgb(65, 131, 196); text-decoration: underline; }

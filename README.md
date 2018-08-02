@@ -7,13 +7,13 @@ The following are a series of personal projects. For a more complete (and aesthe
 A look at Global Average Pooling in Convnets.
 July 16, 2018
 
-### [Toxic Topic Modelling](http://www.harrisonjansma.com/toxic.html)
-An analysis of Wikipedia comments with Topic Modelling.
-June 13, 2018
-
 ### [Apple Sentiment Analysis](http://www.harrisonjansma.com/apple.html)
 A look at bag-of-words models and their application in sentiment analysis.
 June 20, 2018
+
+### [Toxic Topic Modelling](http://www.harrisonjansma.com/toxic.html)
+An analysis of Wikipedia comments with Topic Modelling.
+June 13, 2018
 
 ### [Clustering Mental Health](http://www.harrisonjansma.com/Clustering.html)
 A cluster analysis of survey responses from the tech industry.

@@ -4,9 +4,11 @@ The following are a series of personal projects. For a more complete (and aesthe
 
 <p align="center">
   My website: https://www.harrisonjansma.com 
-  
+  </p>
+  <p align="center"
   Medium: https://medium.com/@harrisonjansma
-  
+  </p>
+  <p align="center"
   Linkedin: https://www.linkedin.com/in/harrisonjansma/
   </p>
 

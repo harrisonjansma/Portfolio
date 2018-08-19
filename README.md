@@ -3,13 +3,13 @@
 The following are a series of personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="http://www.harrisonjansma.com/portfolio.html">portfolio website</a>. My portfolio website not only includes these projects, but also my Medium publications and computer vision research.
 
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
-<img src="images/dropout.png" class="center" height=300 width=300>
-Tests whether convolutional networks with dropout or batch norm are more performant. The notebook in this repository is experimental evidence supporting [the Medium post](https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16) I wrote. (Published in Towards Data Science, 2.3K reads in the first week.) 
+<img src="images/dropout.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%;" height=300 width=300>
+Tests whether convolutional networks with dropout or batch norm are more performant. The notebook in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote. (Published in Towards Data Science, 2.3K reads in the first week.) 
 August 15, 2018
 
 ### [Global Average Pooling: Object Localization](http://www.harrisonjansma.com/GAP.html)
-<img src="images/hucklecover2.png" class="center" height=300 width=300>
-Reimplementation global average pooling for object localization proposd in [this paper](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf). Improved code written by [Alexis Cook](https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/) to handle multiple class localization.
+<img src="images/hucklecover2.png" class="center" style="display: block;margin-left: auto;margin-right: auto;width: 50%;" height=300 width=300>
+Reimplementation global average pooling for object localization proposd in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this paper</a>. Improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization.
 July 16, 2018
 
 ### [Apple Sentiment Analysis](http://www.harrisonjansma.com/apple.html)

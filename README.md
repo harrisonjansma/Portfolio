@@ -24,6 +24,7 @@ The following are my personal projects. For a more complete (and aesthetically a
 
 
 <hr>
+
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
 <p align="center">
 <img src="images/dropout.png" height=300 width=300></p>
@@ -31,6 +32,7 @@ Tests whether convolutional networks with dropout or batch norm are more perform
 August 15, 2018
 
 <hr>
+
 ### [Global Average Pooling: Object Localization](http://www.harrisonjansma.com/GAP.html)
 <p align="center">
 <img src="images/hucklecover2.png" height=300 width=300></p>
@@ -38,20 +40,25 @@ Reimplementation global average pooling for object localization proposd in <a hr
 July 16, 2018
 
 <hr>
+
 ### [Apple Sentiment Analysis](http://www.harrisonjansma.com/apple.html)
 A look at bag-of-words models and their application in sentiment analysis.
 June 20, 2018
 
 <hr>
+
 ### [Toxic Topic Modelling](http://www.harrisonjansma.com/toxic.html)
 An analysis of Wikipedia comments with Topic Modelling.
 June 13, 2018
 
 <hr>
+
 ### [Clustering Mental Health](http://www.harrisonjansma.com/Clustering.html)
 A cluster analysis of survey responses from the tech industry.
 May 23, 2018
+
 <hr>
+
 ### [Data Science Lifecycle](http://www.harrisonjansma.com/Titanic.html)
 A walkthrough of the full model-building process.
 May 3, 2018

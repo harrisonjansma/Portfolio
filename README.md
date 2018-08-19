@@ -9,7 +9,8 @@ Tests whether convolutional networks with dropout or batch norm are more perform
 August 15, 2018
 
 ### [Global Average Pooling: Object Localization](http://www.harrisonjansma.com/GAP.html)
-<img src="images/hucklecover2.png" class="center" style="display: block;margin-left: auto;margin-right: auto;width: 50%;" height=300 width=300>
+<p align="center">
+<img src="images/hucklecover2.png" height=300 width=300></p>
 Reimplementation global average pooling for object localization proposd in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this paper</a>. Improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization.
 July 16, 2018
 

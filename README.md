@@ -1,6 +1,6 @@
 # Portfolio
 
-The following are a series of personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="http://www.harrisonjansma.com/portfolio.html">portfolio website</a>. My portfolio website not only includes these projects, but also my work on computer vision.
+The following are a series of personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="http://www.harrisonjansma.com/portfolio.html">portfolio website</a>. My portfolio website not only includes these projects, but also my Medium publications and computer vision research.
 
 
 ### [Global Average Pooling: Object Localization](http://www.harrisonjansma.com/GAP.html)

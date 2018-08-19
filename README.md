@@ -6,7 +6,7 @@
 <img src="images/harrison.jpg" height=300></p>
 I am a graduate student and researcher at the University of Texas at Dallas. I am passionate about machine learning, computer vision, and web app development.	In my spare time I build websites, read research papers, and play Overwatch. I also exercise regularly and play with my german shepherd, Huckleberry.
 
-
+<br>
 To look my other social platforms, check out the following:
 
 <ul>

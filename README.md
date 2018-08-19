@@ -1,9 +1,12 @@
 # Portfolio
 
-The following are a series of personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. My portfolio website not only includes these projects, but also my Medium publications and computer vision research.
 
+## About Me
+<p align="center">
+<img src="images/harrison.jpg" height=300></p>
+I am a graduate student and researcher at the University of Texas at Dallas. I am passionate about machine learning, computer vision, and web app development.	In my spare time I build websites, read research papers, and play Overwatch. I also exercise regularly and play with my german shepherd, Huckleberry.
 
-To look at my social platforms, check out the following:
+To look my other social platforms, check out the following:
 
 <ul>
 <li>
@@ -15,6 +18,11 @@ To look at my social platforms, check out the following:
   <li>
   Linkedin: https://www.linkedin.com/in/harrisonjansma/
   </ul>
+
+## My Work
+The following are my personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. Which not only includes these projects, but also my Medium publications and computer vision research.
+
+
 
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
 <p align="center">

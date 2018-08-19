@@ -1,6 +1,6 @@
 # Portfolio
 
-The following are a series of personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="http://www.harrisonjansma.com/portfolio.html">portfolio website</a>. My portfolio website not only includes these projects, but also my Medium publications and computer vision research.
+The following are a series of personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. My portfolio website not only includes these projects, but also my Medium publications and computer vision research.
 
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
 <p align="center">

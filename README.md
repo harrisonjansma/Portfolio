@@ -3,8 +3,10 @@
 The following are a series of personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. My portfolio website not only includes these projects, but also my Medium publications and computer vision research.
 
 <p align="center">
-  My website: https://www.harrisonjansma.com
+  My website: https://www.harrisonjansma.com 
+  
   Medium: https://medium.com/@harrisonjansma
+  
   Linkedin: https://www.linkedin.com/in/harrisonjansma/
   </p>
 

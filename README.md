@@ -2,15 +2,15 @@
 
 The following are a series of personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. My portfolio website not only includes these projects, but also my Medium publications and computer vision research.
 <ul>
-<li><p align="center">
+<li>
   My website: https://www.harrisonjansma.com 
-  </p>
-  <li><p align="center">
+  
+  <li>
   Medium: https://medium.com/@harrisonjansma
-  </p>
-  <li><p align="center">
+  
+  <li>
   Linkedin: https://www.linkedin.com/in/harrisonjansma/
-  </p></ul>
+  </ul>
 
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
 <p align="center">

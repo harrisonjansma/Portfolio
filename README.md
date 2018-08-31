@@ -81,7 +81,7 @@ Object Localization Featuring my dog, Huckleberry.</p>
 <p>
 In this project I implemented the deep learning method for object localization (finding objects in an image) proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this research paper</a>. I improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
 
-<p>Computer vision has innumerable real world applications. This project was my introduction to the world of computer vision research. Since the coclusion of this project I have focused heavily on researching recent advances in convolutional neural network architectures. Furthermore, I have made an emphasis on applying these concepts.</p>
+<p>Computer vision has innumerable real world applications. This project was my introduction to the world of computer vision research. Since the conclusion of this project I have focused heavily on researching recent advances in convolutional neural network architectures. Furthermore, I have made an emphasis on learning how to apply these concepts using Tensorflow and Keras.</p>
 
 
 

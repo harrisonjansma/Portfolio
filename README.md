@@ -18,18 +18,18 @@ To look my other social platforms, check out the following:
 
 <ul>
 <li>
-  My website: https://www.harrisonjansma.com 
+  For a list of my projects and interests checkout my self-deployed website: https://www.harrisonjansma.com 
 
   
   <li>
-  Medium: https://medium.com/@harrisonjansma
+  To read my blog posts about deep learning and data science (Which have been featured in Towards Data Science and KDNuggets): https://medium.com/@harrisonjansma
   
   <li>
-  Linkedin: https://www.linkedin.com/in/harrisonjansma/
+  For a list of my professional qualifications look at my Linkedin: https://www.linkedin.com/in/harrisonjansma/
   </ul>
 
 ## My Work
-The following are my personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. Which not only includes these projects, but also my Medium publications and computer vision research.
+The following are my personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. Which not only includes these projects, but also my Medium publications and computer vision (deep learning) research.
 
 
 <hr>
@@ -37,7 +37,9 @@ The following are my personal projects. For a more complete (and aesthetically a
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
 <p align="center">
 <img src="images/dropout.png" height=300 width=300></p>
-Tests whether convolutional networks with dropout or batch norm are more performant. The notebook in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote. (Published in Towards Data Science, 2.3K reads in the first week.) 
+Tests whether convolutional networks with dropout or batch norm are more performant. The notebook in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote. 
+
+Published and <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">Featured</a> in Towards Data Science, with 3K reads on Medium to date. Reposted as a guest blog on KDNuggets, a leading site on Analytics, Big Data, Data Science, and Machine Learning, reaching over 500K unique visitors per month and over 230K subscribers/followers via email and social media. 
 August 15, 2018
 
 <hr>

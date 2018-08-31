@@ -10,11 +10,11 @@ Hi, my name is Harrison Jansma.
 
 
 
-<p>Nine months ago I was in a new city at a dead end job. After some serious self reflection about my passions and interests, I commited to learning everything I could about machine learning, data science and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learning the basics.</p>
+<p>Nine months ago I was in a new city at a dead end job. After some serious self reflection about my passions and interests, I commited to learning everything I could about machine learning, data science, and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learning the basics.</p>
 
-<p>Fast forward to today where I have been enrolled to an excellent computer science program. I now publish my own webpages to help others learn about everything from data science to deep learning. I am so excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
+<p>Fast forward to today where I have been enrolled in an excellent computer science program. I now publish my own blog posts to help others learn about everything from data science to deep learning. I am so excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
 
-<p>I still have a long way to go though. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like minded people and get more experience building intelligent systems for use in the real  world.</p>
+<p>I still have a long way to go though. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real  world.</p>
 
 
 
@@ -27,7 +27,7 @@ Hi, my name is Harrison Jansma.
   
   <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. I believe that knowledge of <b>both data science and back-end development</b> is the secret to seamless implementation of artificial intelligence in existing web technologies.</p>
   
-  <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, the things I will learn are directly applicable in the tech industry today.</p>
+  <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, I strongly suspect that these skills will be crucial to technological development in the years to come.</p>
   
 <hr>
 

@@ -47,9 +47,9 @@ Hi, my name is Harrison Jansma.
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
-  <p> Since I am twenty-three years old, and entering into a masters program, I have had little industry experience. Lack of access to development environment has been a major road block in learning data science. However, I think I have found a solution to this issue that is unique to the tech industry.</p>
+  <p> Since I am twenty-three years old, and entering into a masters program, I have had little industry experience. Lack of access to a production environment has been the largest road block in my curriculum. However, I think I have found a solution to this issue that is unique to the tech industry.</p>
   
-  <p>Thanks largely to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last few months I have deployed servers on DigitalOcean to host my website, build machine learning environments, and house MySQL databases. All of these are all  practical applications relevant to the real world day to day of a data scientist or machine learning engineer.</p>
+  <p>Thanks largely to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last few months I have deployed servers on DigitalOcean to host my website, build machine learning environments, and house MySQL databases. All of these are  practical applications relevant to the day to day of a data scientist or machine learning engineer.</p>
 
 
 # My Work
@@ -98,7 +98,7 @@ July 16, 2018
 
 <p>This project was motivated by my drive to learn about the best practices of predictive modelling in text data. In <a href="https://www.harrisonjansma.com/apple.html">the write-up</a> I cleaned and vectorized Twitter data, visualized and examined patterns, and created a linear classifier to predict document sentiment w/ 89% accuracy on a validation set.  </p>
 <p>
-I concluded the project by creating a write-up, posted on <a href="https://www.harrisonjansma.com/apple.html">my website</a>. In the future, I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
+In the future, I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
 
 June 20, 2018
 

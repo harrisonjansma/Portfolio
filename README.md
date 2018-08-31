@@ -12,9 +12,9 @@ Hi, my name is Harrison Jansma.
 
 <p>Nine months ago I was in a new city at a dead end job. After some serious self reflection about my passions and interests, I commited to learning everything I could about machine learning, data science, and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learning the basics.</p>
 
-<p>Fast forward to today where I have been enrolled in an excellent computer science program. I now publish my own blog posts to help others learn about everything from data science to deep learning. I am so excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
+<p>Fast forward to today where I have been enrolled in an excellent computer science program. I now publish my own blog posts to help others learn about everything from data science to deep learning. I am excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
 
-<p>I still have a long way to go though. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real  world.</p>
+<p>However, I still have a long way to go. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real  world.</p>
 
 
 
@@ -47,8 +47,9 @@ Hi, my name is Harrison Jansma.
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
-  <p> Since I am twenty-three years old and entering into a masters program, I have little industry experience in data science. I have got around this lack of access by making my own production systems.</p>
-  <p>Thanks largely to the availability of cheap computational resources, I have deployed several servers on DigitalOcean to host my website, build Machine learning enviornments, and house databases. By doing this I have gained practical real-world experience that is highly relevant in industry.</p>
+  <p> Since I am twenty-three years old and entering into a masters program, I have had little industry experience in data science. Lack of access to development enviornment has been a major road block in learning data science. However, I think I have found a way around this.</p>
+  
+  <p>Thanks largely to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last two months I have deployed several servers on DigitalOcean to host my website, build machine learning enviornments, and house MySQL databases. All of these are all  practical applications relevant to the real world day to day of a data scientist or ML Engineer.</p>
 
 
 # My Work
@@ -58,8 +59,10 @@ The following are my personal projects. For a more complete (and aesthetically a
 <hr>
 
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
+
 <p align="center">
 <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb"><img src="images/dropout.png" height=300 width=300></a></p>
+
 <p>
 This experiment tested whether convolutional neural networks with dropout or batch normalization are more performant in image recognition tasks. The <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb">notebook</a> in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote explaining how to more effectively build convolutional neural networks.</p>
 
@@ -72,7 +75,7 @@ August 15, 2018
 ### [Global Average Pooling: Object Localization](https://www.harrisonjansma.com/GAP.html)
 <p align="center">
 <a href="https://www.harrisonjansma.com/GAP.html"><img src="images/hucklecover2.png" height=300 width=300 alt="Object Localization on my dog, Huckleberry"></a><br>
-Object Localization of my dog, Huckleberry.</p>
+Object Localization Featuring my dog, Huckleberry.</p>
 
 
 <p>
@@ -86,6 +89,9 @@ July 16, 2018
 <hr>
 
 ### [Apple Sentiment Analysis](https://www.harrisonjansma.com/apple.html)
+<p align="center">
+<a href="https://www.harrisonjansma.com/apple.html"><img src="images/toxic.png" height=300 width=300></a></p>
+
 <p>This project was motivated by my drive to learn about the best practices of predictive modelling in text data. In <a href="https://www.harrisonjansma.com/apple.html">the write-up</a> I cleaned and vectorized Twitter data, visualized and examined patterns, and created a linear classifier to predict document sentiment w/ 89% accuracy on a validation set.  </p>
 <p>
 I concluded the project by creating a write-up, posted on <a href="https://www.harrisonjansma.com/apple.html">my website</a>. In the future, I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
@@ -95,6 +101,9 @@ June 20, 2018
 <hr>
 
 ### [Toxic Topic Modelling](https://www.harrisonjansma.com/toxic.html)
+
+<p align="center">
+<a href="https://www.harrisonjansma.com/toxic.html"><img src="images/Toxic_LDA.PNG" height=300 width=300></a></p>
 
 <p> In this project I used unsupervised learning to cluster forum discussions. Specifically, I performed LDA clustering on Wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
 <p>

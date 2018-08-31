@@ -12,7 +12,7 @@ Hi, my name is Harrison Jansma.
 
 <p>Nine months ago I was in a new city at a dead end job. After some serious self reflection about my passions and interests, I commited to learning everything I could about machine learning, data science, and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learning the basics.</p>
 
-<p>Fast forward to today where I have been enrolled in an excellent computer science program. I now publish my own blog posts to help others learn about everything from data science to deep learning. I am excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
+<p>Fast forward to today where I have enrolled in an excellent computer science program. I now publish my own blog posts to help others learn about everything from data science to deep learning. I am excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
 
 <p>However, I still have a long way to go. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real  world.</p>
 
@@ -27,7 +27,7 @@ Hi, my name is Harrison Jansma.
   
   <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. I believe that knowledge of <b>both data science and back-end development</b> is the secret to seamless implementation of artificial intelligence in existing web technologies.</p>
   
-  <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, I strongly suspect that these skills will be crucial to technological development in the years to come.</p>
+  <p> In the future I will use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, I strongly suspect that these skills will be crucial to technological development in the years to come.</p>
   
 <hr>
 
@@ -47,9 +47,9 @@ Hi, my name is Harrison Jansma.
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
-  <p> Since I am twenty-three years old, and entering into a masters program, I have had little industry experience. Lack of access to a production environment has been the largest road block in my curriculum. However, I think I have found a solution to this issue that is unique to the tech industry.</p>
+  <p> Since I am twenty-three years old, and entering into a masters program, I have had little industry experience. Lack of access to a production environment has been the largest road block in my curriculum. I think I have found a solution to this issue that is unique to the tech industry.</p>
   
-  <p>Thanks largely to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last few months I have deployed servers on DigitalOcean to host my website, build machine learning environments, and house MySQL databases. All of these are  practical applications relevant to the day to day of a data scientist or machine learning engineer.</p>
+  <p>Thanks to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last few months I have deployed servers on DigitalOcean to host my website, build machine learning environments, and house MySQL databases. All of these are  practical applications relevant to the day to day of a data scientist or machine learning engineer.</p>
 
 
 # My Work
@@ -111,7 +111,7 @@ June 20, 2018
 
 <p> In this project I used unsupervised learning to cluster forum discussions. Specifically, I performed LDA clustering on Wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
 <p>
-I was largely succesful in isolating toxic comments into one group. Furthermore, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into 9 distinct categories. These 9 categories could be further grouped as either relevant discussion, side conversations, or outright toxic comments.  </p> 
+I was succesful in isolating toxic comments into one group. Furthermore, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into 9 distinct categories. These 9 categories could be further grouped as either relevant discussion, side conversations, or outright toxic comments.  </p> 
 June 13, 2018
 
 <hr>

@@ -56,9 +56,9 @@ July 16, 2018
 <hr>
 
 ### [Apple Sentiment Analysis](https://www.harrisonjansma.com/apple.html)
-<p>An implementation of topics I covered while studying Natural Language Processing. In this write-up I cleaned and vectorized text data, visualized and examined pattern in the Twitter data, and created a linear classifier to prodict document sentiment w/ 89% accuracy on a validation set.  </p>
+<p>An implementation of topics I covered while studying Natural Language Processing. In this write-up I cleaned and vectorized text data, visualized and examined pattern in the Twitter data, and created a linear classifier to predict document sentiment w/ 89% accuracy on a validation set.  </p>
 <p>
-I concluded the project by creating a write-up, which I posted on my website. In the future I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
+I concluded the project by creating a write-up, posted on <a href="https://www.harrisonjansma.com/apple.html">my website</a>. In the future, I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
 
 June 20, 2018
 
@@ -66,15 +66,22 @@ June 20, 2018
 
 ### [Toxic Topic Modelling](https://www.harrisonjansma.com/toxic.html)
 <p>
-In this project I used word clouds and topic modelling to analyze a textual dataset. Specifically, I performed a LDA clustering analysis on wikipedia forum comments to see if I could isolate clusters of toxic comments.</p>
+<b>The Purpose:<b> In this project I used word clouds and topic modelling to analyze a textual dataset. Specifically, I performed LDA clustering on wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
 <p>
-I was largely succesful in isolating toxic comments into one group. I also gained valuable knowledge about the concepts and topics held within the forums, labeling forum posts into 9 distinct categories. </p> 
+I was largely succesful in isolating toxic comments into one group. Further, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into 9 distinct categories. I found each post could be catagorized as either relevant discussion, side conversations, or outright toxic comments.  </p> 
 June 13, 2018
 
 <hr>
 
 ### [Clustering Mental Health](https://www.harrisonjansma.com/Clustering.html)
-A cluster analysis of survey responses from the tech industry.
+<p><b>Purpose: </b>In this write-up I sought to answer whether a survey of mental health benefits of tech industry employees could be used to cluster employees into groups with good and bad mental health coverage.</p>
+
+<p><b>Method: </b> By cleaning survey data and performing an exploratory data analysis I was able to analyze the demographics of the tech industry. I found the the average respondent was a male, aged 35, located in the United States.  
+  
+  By performing KMeans and agglomerative clustering (with scikit-learn) I attempted to cluster the data, but found the survey setup prevented any meaningful insight into the data.</p>
+  
+  <p><b>Take Aways</b> I learned how to encode categorical data and create an insightful EDA with great visualizations. I also learned how to implement clustering methods on data, and <b> analyze the appropriateness of the clustering method with various techniques.</b> 
+
 May 23, 2018
 
 

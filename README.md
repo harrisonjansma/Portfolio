@@ -22,10 +22,10 @@ To look my other social platforms, check out the following:
 
   
   <li>
-  To read my blog posts about deep learning and data science (Which have been featured in Towards Data Science and KDNuggets): https://medium.com/@harrisonjansma
+  To read my blog posts about deep learning and data science (featured in Towards Data Science and KDNuggets): https://medium.com/@harrisonjansma
   
   <li>
-  For a list of my professional qualifications look at my Linkedin: https://www.linkedin.com/in/harrisonjansma/
+  For a list of my professional qualifications check my Linkedin: https://www.linkedin.com/in/harrisonjansma/
   </ul>
 
 ## My Work

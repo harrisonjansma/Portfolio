@@ -1,7 +1,7 @@
 
 
 
-# Hi, my name is Harrison Jansma
+# A Self-Taught Data Science
 <p align="center">
   
 <img src="images/harrison.png" height=300></p>
@@ -21,7 +21,7 @@ I am a pragmatist at heart. I believe in the importance of being able to apply m
 <p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
   
-  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development.</p>
+  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. I believe that knowledge of <b>both data science and back-end development</b> is the secret to seamless implementation of artificial intelligence in existing web technologies.</p>
   
   <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. This will happen gradually over the next few months as I learn more about Linux server management, back-end Python development, and software architecture.</p>
   
@@ -33,9 +33,9 @@ I am a pragmatist at heart. I believe in the importance of being able to apply m
 <a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
   
   
-  <p> All my life I have been an avid sci-fi and fantasy reader, very recently I have began writing about my research, thoughts, and  experiences.</p
+  <p> All my life I have been an avid sci-fi and fantasy reader.  Very recently I have began writing about my research, thoughts, and  experiences and publishing them for the world to see. Though I am working on the quality of my creative output, my blog posts about data science and deep learning have been well received. </p
   
-  <p>Though I am working on the quality of my creative output, my blog posts about data science have been well received. My first post on Medium led me to be recruited as a Towards Data Science writer.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS's weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets (A Big Data/Data Science website with over 230k subscribers).</p>
+  <p>My first post on Medium led me to be recruited as a Towards Data Science writer.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS's weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets (A Big Data/Data Science website with over 230k subscribers).</p>
 
 <hr>
 
@@ -43,8 +43,8 @@ I am a pragmatist at heart. I believe in the importance of being able to apply m
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
-  <p> Since I am fresh out of college and entering into a masters program in computer science, I have little industry experience in data science. I am making up for this lack of access to production systems by making my own.</p>
-  <p>Thanks largely to the availability of cheap computational resources, I have deployed several servers on DigitalOcean to host my website, build Machine learning enviornments, and house databases. By doing this I have gained practical real-world experience on my own dime.</p>
+  <p> Since I am twenty-three years old and entering into a masters program, I have little industry experience in data science. I have got around the lack of access to production systems by making my own.</p>
+  <p>Thanks largely to the availability of cheap computational resources, I have deployed several servers on DigitalOcean to host my website, build Machine learning enviornments, and house databases. By doing this I have gained practical real-world experience that is highly relevant in industry.</p>
 
 
 # My Work
@@ -57,7 +57,7 @@ The following are my personal projects. For a more complete (and aesthetically a
 <p align="center">
 <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb"><img src="images/dropout.png" height=300 width=300></a></p>
 <p>
-An experiment testing whether convolutional neural networks with dropout or batch norm are more performant in image recognition tasks. The <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb">notebook</a> in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote explaining how to more effectively build convolutional neural networks.    </p>
+This experiment tested whether convolutional neural networks with dropout or batch normalization are more performant in image recognition tasks. The <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb">notebook</a> in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote explaining how to more effectively build convolutional neural networks.</p>
 
 <p>
 The above blog post has been published and <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in Towards Data Science, with 3K reads on Medium in 2 weeks. It has also been reposted as a guest blog on KDNuggets, a leading site on Analytics, Big Data, Data Science, and Machine Learning, reaching over 500K unique visitors per month and over 230K subscribers/followers via email and social media. </p>
@@ -68,11 +68,15 @@ August 15, 2018
 ### [Global Average Pooling: Object Localization](https://www.harrisonjansma.com/GAP.html)
 <p align="center">
 <a href="https://www.harrisonjansma.com/GAP.html"><img src="images/hucklecover2.png" height=300 width=300 alt="Object Localization on my dog, Huckleberry"></a><br>
-Object Localization on my dog, Huckleberry</p>
+Object Localization of my dog, Huckleberry.</p>
 
 
 <p>
-In this project I reimplemented the deep learning method of object localization (finding objects in an image) proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this research paper</a>. I implemented and improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
+In this project I reimplemented the deep learning method for object localization (finding objects in an image) proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this research paper</a>. I implemented and improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
+
+
+
+
 July 16, 2018
 
 <hr>

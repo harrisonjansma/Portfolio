@@ -80,11 +80,9 @@ June 13, 2018
 <p>
 <p>In this write-up I sought to answer whether a survey of mental health benefits of tech industry employees could be used to cluster employees into groups with good and bad mental health coverage.</p>
 
-<p> By cleaning survey data and performing an exploratory data analysis I was able to analyze the demographics of the tech industry. I found the the average respondent was a male, aged 35, located in the United States.  
+<p> By cleaning survey data and performing an exploratory data analysis I was able to analyze the demographics of the tech industry. I found the the average respondent was a male, aged 35, located in the United States. By performing KMeans and agglomerative clustering (with scikit-learn) I attempted to cluster the data, but found the survey setup prevented any meaningful insight into the data.</p>
   
-  By performing KMeans and agglomerative clustering (with scikit-learn) I attempted to cluster the data, but found the survey setup prevented any meaningful insight into the data.</p>
-  
-  <p> By completing this project, I learned how to encode categorical data and create an insightful EDA with great visualizations. I also learned how to implement clustering methods on data, and <b> analyze the appropriateness of the clustering method with various techniques.</b> 
+  <p> In completing this project, I learned how to encode categorical data and create an insightful EDA with great visualizations. I also learned how to implement clustering methods on data, and <b> analyze the appropriateness of the clustering method with various techniques.</b> 
 
 May 23, 2018
 

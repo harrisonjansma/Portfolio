@@ -3,9 +3,12 @@
 
 ## About Me
 <p align="center">
+  
+ #### Hi, my name is Harrison Jansma. 
+  
 <img src="images/harrison.png" height=300></p>
 
-Hi, my name is Harrison Jansma.
+
 
 I am a graduate student and researcher at the University of Texas at Dallas studying computer science. I am passionate about machine learning, computer vision, and web app development.	
 

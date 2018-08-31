@@ -20,11 +20,16 @@ To look my other social platforms, check out the following:
 
 <ul>
 <li>
-  For a list of my projects and interests checkout my self-deployed website: https://www.harrisonjansma.com 
+  For a list of my projects and interests checkout my self-deployed website: https://harrisonjansma.com 
+  <p align="center">
+<a href="https://www.harrisonjansma.com"><img src="images/harrisonjansma.PNG"></a></p>
+
 
   
   <li>
   To read my blog posts about deep learning and data science (featured in Towards Data Science and KDNuggets): https://medium.com/@harrisonjansma
+  <p align="center">
+<a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
   
   <li>
   For a list of my professional qualifications check my Linkedin: https://www.linkedin.com/in/harrisonjansma/

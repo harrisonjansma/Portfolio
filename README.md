@@ -18,11 +18,11 @@ I am a pragmatist at heart, I believe in the importance of applying machine lear
 ### My Portfolio Website
 
 <p align="center">
-<a href="https://www.harrisonjansma.com"><img src="images/harrisonjansma.PNG"></a></p>
+<a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
   <p>To learn more about my aspirations and interests checkout my website: https://harrisonjansma.com </p> 
-  <p> I coded the entire site in HTML, CSS, and Javascripy using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. I am not interested in Front-End Development, instead the process of creating and deploying the website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server taught me a lot about web app design and back-end development.</p>
+  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. I am not interested in Front-End Development, instead the process of creating and deploying the website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server taught me about web app design and back-end development.</p>
   
-  <p> In the future I hope to use this website as a nesting ground for web based somputer vision and NLP models.</p>
+  <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. This will happen gradually over the next few months as I learn more about server management, beack-end development, and web app design.</p>
   
 
 
@@ -35,7 +35,7 @@ I am a pragmatist at heart, I believe in the importance of applying machine lear
   
 ### My Professional Experience
   <p align="center">
-<a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
+<a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   For a list of my professional qualifications check my Linkedin: https://www.linkedin.com/in/harrisonjansma/
 
 

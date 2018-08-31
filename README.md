@@ -1,7 +1,7 @@
-# Portfolio
 
 
-## About Me
+
+# Hi, my name is Harrison Jansma
 <p align="center">
   
 <img src="images/harrison.png" height=300></p>
@@ -11,20 +11,21 @@ Hi, my name is Harrison Jansma.
 
 I am a graduate student of computer science at the University of Texas at Dallas. I am passionate about machine learning, computer vision, and web app development.	
 
-I am a pragmatist at heart, I believe in the importance of applying machine learning to make a difference in the world. I act on these values by writing about my experiences as a self-taught Data Scientist as well as applying my predictive models to real-world production systems.
+<p>
+I am a pragmatist at heart. I believe in the importance of being able to apply machine learning to the real world. I act on these values by writing about my experiences as a self-taught Data Scientist as well as applying my predictive models to real-world production systems.</p>
 
-## Get to Know Me 
+# Get to Know Me 
 
 ### My Portfolio Website
 
 <p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
-  <p>To learn more about my aspirations and interests checkout my website: https://harrisonjansma.com </p> 
+  
   <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development.</p>
   
   <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. This will happen gradually over the next few months as I learn more about Linux server management, back-end Python development, and software architecture.</p>
   
-
+<hr>
 
   
 ### My Writing
@@ -34,18 +35,19 @@ I am a pragmatist at heart, I believe in the importance of applying machine lear
   
   <p> All my life I have been an avid sci-fi and fantasy reader, very recently I have began writing about my research, thoughts, and  experiences.</p
   
-  <p>Though I am working on the quality of my creative output, my writings about data science have been well received. My first post on Medium led me to be recruited as a Towards Data Science writer.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS's weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets.</p>
+  <p>Though I am working on the quality of my creative output, my blog posts about data science have been well received. My first post on Medium led me to be recruited as a Towards Data Science writer.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS's weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets (A Big Data/Data Science website with over 230k subscribers).</p>
 
-  
+<hr>
+
 ### My Professional Experience
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
-  <p> If you want to learn more about my professional experience, check out my LinkedIn.</p>
-  <p> Since I am fresh out of college and entering into a masters program in computer science, I have little practival  experience in data science. I am making up for this lack of access to production systems by making my own.</p>
-  <p>Thanks largely to the availability of cheap computational resources, I have deployed several servers on DigitalOcean to howt my website, build Machine learning enviornments, and house databases. I do all of this with money that I make working at a daycare.</p>
+  
+  <p> Since I am fresh out of college and entering into a masters program in computer science, I have little industry experience in data science. I am making up for this lack of access to production systems by making my own.</p>
+  <p>Thanks largely to the availability of cheap computational resources, I have deployed several servers on DigitalOcean to host my website, build Machine learning enviornments, and house databases. By doing this I have gained practical real-world experience on my own dime.</p>
 
 
-## My Work
+# My Work
 The following are my personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. Which not only includes these projects, but also my Medium publications and computer vision (deep learning) research.
 
 
@@ -65,15 +67,18 @@ August 15, 2018
 
 ### [Global Average Pooling: Object Localization](https://www.harrisonjansma.com/GAP.html)
 <p align="center">
-<a href="https://www.harrisonjansma.com/GAP.html"><img src="images/hucklecover2.png" height=300 width=300></a></p>
+<a href="https://www.harrisonjansma.com/GAP.html"><img src="images/hucklecover2.png" height=300 width=300 alt="Object Localization on my dog, Huckleberry"></a><br>
+Object Localization on my dog, Huckleberry</p>
+
+
 <p>
-Reimplementation of  global average pooling in convolutional neural networks for object localization proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this paper</a>. Improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
+In this project I reimplemented the deep learning method of object localization (finding objects in an image) proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this research paper</a>. I implemented and improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
 July 16, 2018
 
 <hr>
 
 ### [Apple Sentiment Analysis](https://www.harrisonjansma.com/apple.html)
-<p>An implementation of topics I covered while studying Natural Language Processing. In this write-up I cleaned and vectorized text data, visualized and examined pattern in the Twitter data, and created a linear classifier to predict document sentiment w/ 89% accuracy on a validation set.  </p>
+<p>This project was motivated by my drive to learn about the best practices of predictive modelling in text data. In <a href="https://www.harrisonjansma.com/apple.html">the write-up</a> I cleaned and vectorized Twitter data, visualized and examined patterns, and created a linear classifier to predict document sentiment w/ 89% accuracy on a validation set.  </p>
 <p>
 I concluded the project by creating a write-up, posted on <a href="https://www.harrisonjansma.com/apple.html">my website</a>. In the future, I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
 
@@ -82,10 +87,10 @@ June 20, 2018
 <hr>
 
 ### [Toxic Topic Modelling](https://www.harrisonjansma.com/toxic.html)
+
+<p> In this project I used unsupervised learning to cluster forum discussions. Specifically, I performed LDA clustering on Wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
 <p>
-<b>The Purpose:</b> In this project I used word clouds and topic modelling to analyze a textual dataset. Specifically, I performed LDA clustering on wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
-<p>
-I was largely succesful in isolating toxic comments into one group. Further, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into 9 distinct categories. I found each post could be catagorized as either relevant discussion, side conversations, or outright toxic comments.  </p> 
+I was largely succesful in isolating toxic comments into one group. Furthermore, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into 9 distinct categories. These 9 categories could be further grouped as either relevant discussion, side conversations, or outright toxic comments.  </p> 
 June 13, 2018
 
 <hr>

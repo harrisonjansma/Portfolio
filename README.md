@@ -37,7 +37,9 @@ The following are my personal projects. For a more complete (and aesthetically a
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
 <p align="center">
 <img src="images/dropout.png" height=300 width=300></p>
-Tests whether convolutional neural networks with dropout or batch norm are more performant. The <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb">notebook</a> in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote explaining how to more effectively build convolutional neural networks.    
+<p>
+Tests whether convolutional neural networks with dropout or batch norm are more performant. The <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb">notebook</a> in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote explaining how to more effectively build convolutional neural networks.    </p>
+
 <p>
 The above blog post has been published and <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in Towards Data Science, with 3K reads on Medium in 2 weeks. It has also been reposted as a guest blog on KDNuggets, a leading site on Analytics, Big Data, Data Science, and Machine Learning, reaching over 500K unique visitors per month and over 230K subscribers/followers via email and social media. </p>
 August 15, 2018
@@ -47,24 +49,26 @@ August 15, 2018
 ### [Global Average Pooling: Object Localization](https://www.harrisonjansma.com/GAP.html)
 <p align="center">
 <img src="images/hucklecover2.png" height=300 width=300></p>
-Reimplementation of  global average pooling in convolutional neural networks for object localization proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this paper</a>. Improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.
+<p>
+Reimplementation of  global average pooling in convolutional neural networks for object localization proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this paper</a>. Improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
 July 16, 2018
 
 <hr>
 
 ### [Apple Sentiment Analysis](https://www.harrisonjansma.com/apple.html)
-An implementation of topics I covered while studying Natural Language Processing. In this write-up I cleaned and vectorized text data, visualized and examined pattern in the Twitter data, and created a linear classifier to prodict document sentiment w/ 89% accuracy on a validation set.  
-<br />
-I concluded the project by creating a write-up, which I posted on my website. In the future I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.
+<p>An implementation of topics I covered while studying Natural Language Processing. In this write-up I cleaned and vectorized text data, visualized and examined pattern in the Twitter data, and created a linear classifier to prodict document sentiment w/ 89% accuracy on a validation set.  </p>
+<p>
+I concluded the project by creating a write-up, which I posted on my website. In the future I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
 
 June 20, 2018
 
 <hr>
 
 ### [Toxic Topic Modelling](https://www.harrisonjansma.com/toxic.html)
-In this project I used word clouds and topic modelling to analyze a textual dataset. Specifically, I performed a LDA clustering analysis on wikipedia forum comments to see if I could isolate clusters of toxic comments.
-<br />
-I was largely succesful in isolating toxic comments into one group. I also gained valuable knowledge about the concepts and topics held within the forums, labeling forum posts into 9 distinct categories.  
+<p>
+In this project I used word clouds and topic modelling to analyze a textual dataset. Specifically, I performed a LDA clustering analysis on wikipedia forum comments to see if I could isolate clusters of toxic comments.</p>
+<p>
+I was largely succesful in isolating toxic comments into one group. I also gained valuable knowledge about the concepts and topics held within the forums, labeling forum posts into 9 distinct categories. </p> 
 June 13, 2018
 
 <hr>

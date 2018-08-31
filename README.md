@@ -66,7 +66,7 @@ June 20, 2018
 
 ### [Toxic Topic Modelling](https://www.harrisonjansma.com/toxic.html)
 <p>
-<b>The Purpose:<b> In this project I used word clouds and topic modelling to analyze a textual dataset. Specifically, I performed LDA clustering on wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
+<b>The Purpose:</b> In this project I used word clouds and topic modelling to analyze a textual dataset. Specifically, I performed LDA clustering on wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
 <p>
 I was largely succesful in isolating toxic comments into one group. Further, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into 9 distinct categories. I found each post could be catagorized as either relevant discussion, side conversations, or outright toxic comments.  </p> 
 June 13, 2018

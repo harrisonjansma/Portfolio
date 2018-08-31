@@ -36,7 +36,7 @@ The following are my personal projects. For a more complete (and aesthetically a
 
 ### [Experiment: Batch Norm vs. Dropout in ConvNets](https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb)
 <p align="center">
-<img src="images/dropout.png" height=300 width=300></p>
+<a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb"><img src="images/dropout.png" height=300 width=300></a></p>
 <p>
 Tests whether convolutional neural networks with dropout or batch norm are more performant. The <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb">notebook</a> in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote explaining how to more effectively build convolutional neural networks.    </p>
 
@@ -48,7 +48,7 @@ August 15, 2018
 
 ### [Global Average Pooling: Object Localization](https://www.harrisonjansma.com/GAP.html)
 <p align="center">
-<img src="images/hucklecover2.png" height=300 width=300></p>
+<a href="https://www.harrisonjansma.com/GAP.html"><img src="images/hucklecover2.png" height=300 width=300></a></p>
 <p>
 Reimplementation of  global average pooling in convolutional neural networks for object localization proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this paper</a>. Improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
 July 16, 2018

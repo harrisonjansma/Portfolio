@@ -13,27 +13,31 @@ I am a graduate student of computer science at the University of Texas at Dallas
 
 I am a pragmatist at heart, I believe in the importance of applying machine learning to make a difference in the world. This means writing about my experiences as a self-taught Data Scientist as well as applying my models in real-world production systems.
 
+## Get to Know Me 
 
-<p>
-To look my other social platforms, check out the following:
-</p>
+### My Portfolio Website
 
-<ul>
-<li>
-  For a list of my projects and interests checkout my self-deployed website: https://harrisonjansma.com 
-  <p align="center">
+<p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/harrisonjansma.PNG"></a></p>
+  <p>To learn more about my aspirations and interests checkout my website: https://harrisonjansma.com </p> 
+  <p> I coded the entire site in HTML, CSS, and Javascripy using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. I am not interested in Front-End Development, instead the process of creating and deploying the website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server taught me a lot about web app design and back-end development.</p>
+  
+  <p> In the future I hope to use this website as a nesting ground for web based somputer vision and NLP models.</p>
+  
 
 
   
-  <li>
-  To read my blog posts about deep learning and data science (featured in Towards Data Science and KDNuggets): https://medium.com/@harrisonjansma
+### My Writing
   <p align="center">
 <a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
+  To read my blog posts about deep learning and data science (featured in Towards Data Science and KDNuggets): https://medium.com/@harrisonjansma
+
   
-  <li>
+### My Professional Experience
+  <p align="center">
+<a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
   For a list of my professional qualifications check my Linkedin: https://www.linkedin.com/in/harrisonjansma/
-  </ul>
+
 
 ## My Work
 The following are my personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. Which not only includes these projects, but also my Medium publications and computer vision (deep learning) research.

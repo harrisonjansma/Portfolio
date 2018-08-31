@@ -9,7 +9,7 @@
 Hi, my name is Harrison.
 
 
-I am a graduate student and researcher at the University of Texas at Dallas studying computer science. I am passionate about machine learning, computer vision, and web app development.	
+I am a graduate student of computer science at the University of Texas at Dallas. I am passionate about machine learning, computer vision, and web app development.	
 
 I am a pragmatist at heart, I believe in the importance of applying machine learning to make a difference in the world. This means writing about my experiences as a self-taught Data Scientist as well as applying my models in real-world production systems.
 

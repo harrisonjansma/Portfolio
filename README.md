@@ -6,12 +6,12 @@
   
 <img src="images/harrison.png" height=300></p>
   
-Hi, my name is Harrison.
+Hi, my name is Harrison Jansma.
 
 
 I am a graduate student of computer science at the University of Texas at Dallas. I am passionate about machine learning, computer vision, and web app development.	
 
-I am a pragmatist at heart, I believe in the importance of applying machine learning to make a difference in the world. This means writing about my experiences as a self-taught Data Scientist as well as applying my models in real-world production systems.
+I am a pragmatist at heart, I believe in the importance of applying machine learning to make a difference in the world. I act on these values by writing about my experiences as a self-taught Data Scientist as well as applying my predictive models to real-world production systems.
 
 ## Get to Know Me 
 
@@ -20,9 +20,9 @@ I am a pragmatist at heart, I believe in the importance of applying machine lear
 <p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
   <p>To learn more about my aspirations and interests checkout my website: https://harrisonjansma.com </p> 
-  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. I am not interested in Front-End Development, instead the process of creating and deploying the website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server taught me about web app design and back-end development.</p>
+  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development.</p>
   
-  <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. This will happen gradually over the next few months as I learn more about server management, beack-end development, and web app design.</p>
+  <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. This will happen gradually over the next few months as I learn more about Linux server management, back-end Python development, and software architecture.</p>
   
 
 
@@ -30,13 +30,19 @@ I am a pragmatist at heart, I believe in the importance of applying machine lear
 ### My Writing
   <p align="center">
 <a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
-  To read my blog posts about deep learning and data science (featured in Towards Data Science and KDNuggets): https://medium.com/@harrisonjansma
+  
+  
+  <p> All my life I have been an avid sci-fi and fantasy reader, very recently I have began writing about my research, thoughts, and  experiences.</p
+  
+  <p>Though I am working on the quality of my creative output, my writings about data science have been well received. My first post on Medium led me to be recruited as a Towards Data Science writer.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS's weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets.</p>
 
   
 ### My Professional Experience
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
-  For a list of my professional qualifications check my Linkedin: https://www.linkedin.com/in/harrisonjansma/
+  <p> If you want to learn more about my professional experience, check out my LinkedIn.</p>
+  <p> Since I am fresh out of college and entering into a masters program in computer science, I have little practival  experience in data science. I am making up for this lack of access to production systems by making my own.</p>
+  <p>Thanks largely to the availability of cheap computational resources, I have deployed several servers on DigitalOcean to howt my website, build Machine learning enviornments, and house databases. I do all of this with money that I make working at a daycare.</p>
 
 
 ## My Work

@@ -38,8 +38,8 @@ The following are my personal projects. For a more complete (and aesthetically a
 <p align="center">
 <img src="images/dropout.png" height=300 width=300></p>
 Tests whether convolutional neural networks with dropout or batch norm are more performant. The <a href="https://github.com/harrisonjansma/Portfolio/blob/master/Experiment-BatchNorm-vs-Dropout/08-12-18%20Batch%20Norm%20vs%20Dropout.ipynb">notebook</a> in this repository is experimental evidence supporting <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">the Medium post</a> I wrote explaining how to more effectively build convolutional neural networks.    
-<br />
-The above blog post has been published and <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">Featured</a> in Towards Data Science, with 3K reads on Medium to date. It has also been reposted as a guest blog on KDNuggets, a leading site on Analytics, Big Data, Data Science, and Machine Learning, reaching over 500K unique visitors per month and over 230K subscribers/followers via email and social media. 
+<p>
+The above blog post has been published and <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in Towards Data Science, with 3K reads on Medium in 2 weeks. It has also been reposted as a guest blog on KDNuggets, a leading site on Analytics, Big Data, Data Science, and Machine Learning, reaching over 500K unique visitors per month and over 230K subscribers/followers via email and social media. </p>
 August 15, 2018
 
 <hr>

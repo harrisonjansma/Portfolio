@@ -5,7 +5,11 @@
 <p align="center">
 <img src="images/harrison.png" height=300></p>
 
-I am a graduate student and researcher at the University of Texas at Dallas. I am passionate about machine learning, computer vision, and web app development.	In my spare time I build websites, read research papers, and play Overwatch. I also exercise regularly and play with my german shepherd, Huckleberry.
+Hi, my name is Harrison Jansma.
+
+I am a graduate student and researcher at the University of Texas at Dallas studying computer science. I am passionate about machine learning, computer vision, and web app development.	
+
+I am a pragmatist at heart, I believe in the importance of applying machine learning to make a difference in the world. This means writing about my experiences as a self-taught Data Scientist as well as applying my models in real-world production systems.
 
 
 <p>
@@ -15,6 +19,7 @@ To look my other social platforms, check out the following:
 <ul>
 <li>
   My website: https://www.harrisonjansma.com 
+
   
   <li>
   Medium: https://medium.com/@harrisonjansma

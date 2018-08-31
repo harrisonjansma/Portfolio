@@ -9,10 +9,14 @@
 Hi, my name is Harrison Jansma.
 
 
-I am a graduate student of computer science at the University of Texas at Dallas. I am passionate about machine learning, computer vision, and web app development.	
 
-<p>
-I am a pragmatist at heart. I believe in the importance of being able to apply machine learning to the real world. I act on these values by writing about my experiences as a self-taught Data Scientist as well as applying my predictive models to real-world production systems.</p>
+<p>Nine months ago I was in a new city at a dead end job. After some serious self reflection about my passions and interests, I commited to learning everything I could about machine learning, data science and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learning the basics.</p>
+
+<p>Fast forward to today where I have been enrolled to an excellent computer science program. I now publish my own webpages to help others learn about everything from data science to deep learning. I am so excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
+
+<p>I still have a long way to go though. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like minded people and get more experience building intelligent systems for use in the real  world.</p>
+
+
 
 # Get to Know Me 
 
@@ -23,7 +27,7 @@ I am a pragmatist at heart. I believe in the importance of being able to apply m
   
   <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. I believe that knowledge of <b>both data science and back-end development</b> is the secret to seamless implementation of artificial intelligence in existing web technologies.</p>
   
-  <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. This will happen gradually over the next few months as I learn more about Linux server management, back-end Python development, and software architecture.</p>
+  <p> In the future I hope to use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, the things I will learn are directly applicable in the tech industry today.</p>
   
 <hr>
 
@@ -33,7 +37,7 @@ I am a pragmatist at heart. I believe in the importance of being able to apply m
 <a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
   
   
-  <p> All my life I have been an avid sci-fi and fantasy reader.  Very recently I have began writing about my research, thoughts, and  experiences and publishing them for the world to see. Though I am working on the quality of my creative output, my blog posts about data science and deep learning have been well received. </p
+  <p> All my life I have been an avid sci-fi and fantasy reader.  Very recently I have begun writing about my research, thoughts, and  experiences and publishing them for the world to see. Though my creative output is a work in progress, my blog posts about data science and deep learning have been well received. </p
   
   <p>My first post on Medium led me to be recruited as a Towards Data Science writer.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS's weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets (A Big Data/Data Science website with over 230k subscribers).</p>
 
@@ -43,7 +47,7 @@ I am a pragmatist at heart. I believe in the importance of being able to apply m
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
-  <p> Since I am twenty-three years old and entering into a masters program, I have little industry experience in data science. I have got around the lack of access to production systems by making my own.</p>
+  <p> Since I am twenty-three years old and entering into a masters program, I have little industry experience in data science. I have got around this lack of access by making my own production systems.</p>
   <p>Thanks largely to the availability of cheap computational resources, I have deployed several servers on DigitalOcean to host my website, build Machine learning enviornments, and house databases. By doing this I have gained practical real-world experience that is highly relevant in industry.</p>
 
 

@@ -129,6 +129,8 @@ June 13, 2018
 
 May 23, 2018
 
+<hr>
+
 ### [The End-To-End Data Science Lifecycle](http://www.harrisonjansma.com/Titanic.html)
 
 <p align="center">

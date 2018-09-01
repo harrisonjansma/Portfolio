@@ -129,7 +129,23 @@ June 13, 2018
 
 May 23, 2018
 
+### [The End-To-End Data Science Lifecycle](http://www.harrisonjansma.com/Titanic.html)
 
+<p align="center">
+<a href="https://www.harrisonjansma.com/Titanic.html"><img src="images/model_performance.png" height=300 width=300></a></p>
 
+<p>In this write-up I sought to practice the entire data science lifecycle. This includes defining project end goals, data cleaning, exploratory data analysis, model comparisons, and model tuning.</p>
+
+<p>After a brief EDA, I visualized the Titanic dataset via a 2D projection. I then compared several machine learning algorithms and found the most accurate model to be a Gradient Boosted Machine. After a model tuning phase I increased model accuracy from 77% to 79%.</p>
+
+May 3, 2018
+
+# Mini-Projects
+
+- An Overview of Linear Models in Scikit Learn <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/2.%20Sklearn%20Documentation/1.1-1.5%20Supervised%20Learning.ipynb">Code</a>
+
+- Web Scraping Overwatch Data from MasterOverwatch.com <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/NLP/WebScrapeRegex/overwatch_web_scraping.ipynb">Code</a>
+
+- FICO Score Statistical Regression <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/1.%20Shallow%20Learning%20Algorithms/1.%20Linear%20Regression/1_Linear%20Regression%20Code.ipynb">Code</a>
 
 

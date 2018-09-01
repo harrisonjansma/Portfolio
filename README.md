@@ -27,7 +27,7 @@ Hi, my name is Harrison Jansma.
   
   <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. I believe that knowledge of <b>both data science and back-end development</b> is the secret to seamless implementation of artificial intelligence in existing web technologies.</p>
   
-  <p> In the future I will use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, I strongly suspect that these skills will be crucial to technological development in the years to come.</p>
+  <p> In the future, I will use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, I strongly suspect that these skills will be crucial to technological development in the years to come.</p>
   
 <hr>
 
@@ -96,7 +96,7 @@ July 16, 2018
 <p align="center">
 <a href="https://www.harrisonjansma.com/apple.html"><img src="images/toxic.png" height=300 width=300></a></p>
 
-<p>This project was motivated by my drive to learn about the best practices of predictive modelling in text data. In <a href="https://www.harrisonjansma.com/apple.html">the write-up</a> I cleaned and vectorized Twitter data, visualized and examined patterns, and created a linear classifier to predict document sentiment w/ 89% accuracy on a validation set.  </p>
+<p>This project was motivated by my drive to learn about the best practices of predictive modelling in text data. In <a href="https://www.harrisonjansma.com/apple.html">the write-up</a> I cleaned and vectorized Twitter data, visualized and examined patterns, and created a linear classifier to predict document sentiment with 89% accuracy on a validation set.  </p>
 <p>
 In the future, I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
 
@@ -109,9 +109,9 @@ June 20, 2018
 <p align="center">
 <a href="https://www.harrisonjansma.com/toxic.html"><img src="images/Toxic_LDA.PNG" height=300 width=300></a></p>
 
-<p> In this project I used unsupervised learning to cluster forum discussions. Specifically, I performed LDA clustering on Wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
+<p> In this project, I used unsupervised learning to cluster forum discussions. Specifically, I performed LDA clustering on Wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
 <p>
-I was succesful in isolating toxic comments into one group. Furthermore, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into 9 distinct categories. These 9 categories could be further grouped as either relevant discussion, side conversations, or outright toxic comments.  </p> 
+I was succesful in isolating toxic comments into one group. Furthermore, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into nine distinct categories. These nine categories could be further grouped as either relevant discussion, side conversations, or outright toxic comments.  </p> 
 June 13, 2018
 
 <hr>
@@ -144,10 +144,10 @@ May 3, 2018
 
 # Mini-Projects
 
-- An Overview of Linear Models in Scikit Learn <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/2.%20Sklearn%20Documentation/1.1-1.5%20Supervised%20Learning.ipynb">Code</a>
+- An Overview of Linear Models in Scikit Learn <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/2.%20Sklearn%20Documentation/1.1-1.5%20Supervised%20Learning.ipynb">Jupyter Notebook</a>
 
-- Web Scraping Overwatch Data from MasterOverwatch.com <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/NLP/WebScrapeRegex/overwatch_web_scraping.ipynb">Code</a>
+- Web Scraping Overwatch Data from MasterOverwatch.com <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/NLP/WebScrapeRegex/overwatch_web_scraping.ipynb">Jupyter Notebook</a>
 
-- FICO Score Statistical Regression <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/1.%20Shallow%20Learning%20Algorithms/1.%20Linear%20Regression/1_Linear%20Regression%20Code.ipynb">Code</a>
+- FICO Score Statistical Regression <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/1.%20Shallow%20Learning%20Algorithms/1.%20Linear%20Regression/1_Linear%20Regression%20Code.ipynb">Jupyter Notebook</a>
 
 

@@ -53,7 +53,7 @@ Hi, my name is Harrison Jansma.
 
 
 # My Work
-The following are my personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. Which not only includes these projects but also my Medium publications and computer vision (deep learning) research.
+
 
 
 <hr>

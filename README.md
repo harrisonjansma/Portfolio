@@ -10,11 +10,11 @@ Hi, my name is Harrison Jansma.
 
 
 
-<p>Nine months ago I was in a new city at a dead end job. After some serious self reflection about my passions and interests, I commited to learning everything I could about machine learning, data science, and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learning the basics.</p>
+<p>Nine months ago I was in a new city at a dead end job. After some serious self-reflection about my passions and interests, I committed to learning everything I could about machine learning, data science, and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learn the basics.</p>
 
 <p>Fast forward to today where I have enrolled in an excellent computer science program. I now publish my own blog posts to help others learn about everything from data science to deep learning. I am excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
 
-<p>However, I still have a long way to go. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real  world.</p>
+<p>However, I still have a long way to go. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real-world.</p>
 
 
 
@@ -25,7 +25,7 @@ Hi, my name is Harrison Jansma.
 <p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
   
-  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. I believe that knowledge of <b>both data science and back-end development</b> is the secret to seamless implementation of artificial intelligence in existing web technologies.</p>
+  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. I believe that knowledge of <b>both data science and back-end development</b> is the secret to a seamless implementation of artificial intelligence in existing web technologies.</p>
   
   <p> In the future, I will use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, I strongly suspect that these skills will be crucial to technological development in the years to come.</p>
   
@@ -39,7 +39,7 @@ Hi, my name is Harrison Jansma.
   
   <p> All my life I have been an avid sci-fi and fantasy reader.  Very recently I have begun writing about my research, thoughts, and  experiences and publishing them for the world to see. Though my creative output is a work in progress, my blog posts about data science and deep learning have been well received. </p
   
-  <p>My first post on Medium led me to a recruiter from the Towards Data Science publication.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS's weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets (A Big Data/Data Science website with over 230k subscribers).</p>
+  <p>My first post on Medium led me to a recruiter from the Towards Data Science publication.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS' weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets (A Big Data/Data Science website with over 230k subscribers).</p>
 
 <hr>
 
@@ -47,13 +47,13 @@ Hi, my name is Harrison Jansma.
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
-  <p> Since I am twenty-three years old, and entering into a masters program, I have had little industry experience. Lack of access to a production environment has been the largest road block in my curriculum. I think I have found a solution to this issue that is unique to the tech industry.</p>
+  <p> Since I am twenty-three years old and entering into a masters program, I have had little industry experience. Lack of access to a production environment has been the largest road-block in my curriculum. I think I have found a solution to this issue that is unique to the tech industry.</p>
   
-  <p>Thanks to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last few months I have deployed servers on DigitalOcean to host my website, build machine learning environments, and house MySQL databases. All of these are  practical applications relevant to the day to day of a data scientist or machine learning engineer.</p>
+  <p>Thanks to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last few months, I have deployed servers on DigitalOcean to host my website, build machine learning environments, and house MySQL databases. All of these are  practical applications relevant to the day to day of a data scientist or machine learning engineer.</p>
 
 
 # My Work
-The following are my personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. Which not only includes these projects, but also my Medium publications and computer vision (deep learning) research.
+The following are my personal projects. For a more complete (and aesthetically appealing) list of my work, please check out my <a href="https://www.harrisonjansma.com">portfolio website</a>. Which not only includes these projects but also my Medium publications and computer vision (deep learning) research.
 
 
 <hr>
@@ -79,9 +79,9 @@ Object Localization Featuring my dog, Huckleberry.</p>
 
 
 <p>
-In this project I implemented the deep learning method for object localization (finding objects in an image) proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this research paper</a>. I improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
+In this project, I implemented the deep learning method for object localization (finding objects in an image) proposed in <a href="http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf">this research paper</a>. I improved code written by <a href="https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/">Alexis Cook</a> to handle multi-class localization of images.</p>
 
-<p>Computer vision has innumerable real world applications. This project was my introduction to the world of computer vision research. Since the conclusion of this project I have focused heavily on researching recent advances in convolutional neural network architectures. Furthermore, I have made an emphasis on learning how to apply these concepts using Tensorflow and Keras.</p>
+<p>Computer vision has innumerable real-world applications. This project was my introduction to the world of computer vision research. Since the conclusion of this project, I have focused heavily on researching recent advances in convolutional neural network architectures. Furthermore, I have made an emphasis on learning how to apply these concepts using Tensorflow and Keras.</p>
 
 
 
@@ -96,7 +96,7 @@ July 16, 2018
 <p align="center">
 <a href="https://www.harrisonjansma.com/apple.html"><img src="images/toxic.png" height=300 width=300></a></p>
 
-<p>This project was motivated by my drive to learn about the best practices of predictive modelling in text data. In <a href="https://www.harrisonjansma.com/apple.html">the write-up</a> I cleaned and vectorized Twitter data, visualized and examined patterns, and created a linear classifier to predict document sentiment with 89% accuracy on a validation set.  </p>
+<p>This project was motivated by my drive to learn about the best practices of predictive modeling in text data. In <a href="https://www.harrisonjansma.com/apple.html">the write-up</a>, I cleaned and vectorized Twitter data, visualized and examined patterns, and created a linear classifier to predict document sentiment with 89% accuracy on a validation set.  </p>
 <p>
 In the future, I would like to productionize this NLP model by creating a REST API to allow others access to my predictions.</p>
 
@@ -111,7 +111,7 @@ June 20, 2018
 
 <p> In this project, I used unsupervised learning to cluster forum discussions. Specifically, I performed LDA clustering on Wikipedia forum comments to see if I could isolate clusters of toxic comments.(insults, slurs,...)</p>
 <p>
-I was succesful in isolating toxic comments into one group. Furthermore, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into nine distinct categories. These nine categories could be further grouped as either relevant discussion, side conversations, or outright toxic comments.  </p> 
+I was successful in isolating toxic comments into one group. Furthermore, I gained valuable knowledge about the discussions held within the forum dataset, labeling forum posts into nine distinct categories. These nine categories could be further grouped as either relevant discussion, side conversations, or outright toxic comments.  </p> 
 June 13, 2018
 
 <hr>
@@ -123,7 +123,7 @@ June 13, 2018
 <p>
 <p>In this write-up I sought to answer whether a survey of mental health benefits of tech industry employees could be used to cluster employees into groups with good and bad mental health coverage.</p>
 
-<p> By cleaning survey data and performing an exploratory data analysis I was able to analyze the demographics of the tech industry. I found the the average respondent was a male, aged 35, located in the United States. By performing KMeans and agglomerative clustering (with scikit-learn) I attempted to cluster the data, but found the survey setup prevented any meaningful insight into the data.</p>
+<p> By cleaning survey data and performing an exploratory data analysis I was able to analyze the demographics of the tech industry. I found the average respondent was a male, aged 35, located in the United States. By performing KMeans and agglomerative clustering (with scikit-learn) I attempted to cluster the data but found the survey setup prevented any meaningful insight into the data.</p>
   
   <p> In completing this project, I learned how to encode categorical data and create an insightful EDA with great visualizations. I also learned how to implement clustering methods on data, and <b> analyze the appropriateness of the clustering method with various techniques.</b> 
 
@@ -136,7 +136,7 @@ May 23, 2018
 <p align="center">
 <a href="https://www.harrisonjansma.com/Titanic.html"><img src="images/model_performance.png" height=300 width=300></a></p>
 
-<p>In this write-up I sought to practice the entire data science lifecycle. This includes defining project end goals, data cleaning, exploratory data analysis, model comparisons, and model tuning.</p>
+<p>In this write-up, I sought to practice the entire data science lifecycle. This includes defining project end goals, data cleaning, exploratory data analysis, model comparisons, and model tuning.</p>
 
 <p>After a brief EDA, I visualized the Titanic dataset via a 2D projection. I then compared several machine learning algorithms and found the most accurate model to be a Gradient Boosted Machine. After a model tuning phase I increased model accuracy from 77% to 79%.</p>
 

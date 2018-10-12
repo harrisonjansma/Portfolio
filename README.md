@@ -54,7 +54,24 @@ Hi, my name is Harrison Jansma.
 
 # My Work
 
+<hr>
+### [Scraping and Analyzing a Million Medium Stories](https://github.com/harrisonjansma/Analyzing_Medium)
 
+<p align="center">
+<a href=https://github.com/harrisonjansma/Analyzing_Medium"><img src="images/card3.png"></a></p>
+
+<p>
+Medium is a blogging platform where writers and readers share their ideas. This purpose of this project was to give Medium writers a benchmark to measure their own performance, as well as a goal that might increase the rankings of their stories in Medium's recommendation engine. With more than two hundred thousand writers in my dataset, this project has the potential to ease the creative process for thousands, and increase the quality of Medium's stories for its readers.
+ </p>
+ 
+<p>
+By collecting data on one million Medium stories, I was able to analyze the performance Medium's articles. As a result of this project, I found that the top 1% of Medium articles receive two thousand claps. Authors can use this metric as a goal when writing future stories. By achieving the top 1% of claps, a writer's story is more likely to stand out to Medium's recommendation engine, and as a result, reach new and diverse audiences. A writer can also use this as a benchmark to compare the performance of previous stories, and look at what has worked well in the past. </p>
+
+ <p>The results of my analysis, along with an extensive exploratory data analysis of Medium, can be found in the [Medium_analysis.ipynb](https://github.com/harrisonjansma/Analyzing_Medium/blob/master/Medium_EDA.ipynb) notebook.</p>
+
+October 10, 2018
+
+<hr>
 
 <hr>
 

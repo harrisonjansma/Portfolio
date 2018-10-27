@@ -10,11 +10,11 @@ Hi, my name is Harrison Jansma.
 
 
 
-<p>Nine months ago I was in a new city at a dead end job. After some serious self-reflection about my passions and interests, I committed to learning everything I could about machine learning, data science, and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learn the basics.</p>
+<p>At the beginning of 2018 I was in a new city at a dead end job. After some serious self-reflection about my passions and interests, I committed to learning everything I could about machine learning, data science, and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learn the basics.</p>
 
 <p>Fast forward to today where I have enrolled in an excellent computer science program. I now publish my own blog posts to help others learn about everything from data science to deep learning. I am excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
 
-<p>However, I still have a long way to go. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real-world.</p>
+<p>I still have a long way to go, though. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real-world.</p>
 
 
 
@@ -39,7 +39,7 @@ Hi, my name is Harrison Jansma.
   
   <p> All my life I have been an avid sci-fi and fantasy reader.  Very recently I have begun writing about my research, thoughts, and  experiences and publishing them for the world to see. Though my creative output is a work in progress, my blog posts about data science and deep learning have been well received. </p
   
-  <p>My first post on Medium led me to a recruiter from the Towards Data Science publication.  My second post, a more polished and practical article about deep learning, was <a href="https://towardsdatascience.com/weekly-selection-aug-17-2018-4ad31bfe7c37">featured</a> in TDS' weekly editorial picks. Three weeks after its initial publication it received 3k reads and was reposted on KDNuggets (A Big Data/Data Science website with over 230k subscribers).</p>
+  <p>I have been published in multiple major data-science and analytics publications; including <a href="https://medium.freecodecamp.org/@harrisonjansma">freeCodeCamp</a> (500k subscribers), <a href="https://towardsdatascience.com/@harrisonjansma">Towards Data Science</a>, and <a href="https://www.kdnuggets.com/2018/10/learn-data-science-broke.html">KDNuggets</a>. I have also built my own following of 1500 subscribers.</p>
 
 <hr>
 
@@ -47,7 +47,7 @@ Hi, my name is Harrison Jansma.
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
-  <p> Since I am twenty-three years old and entering into a masters program, I have had little industry experience. Lack of access to a production environment has been the largest road-block in my curriculum. I think I have found a solution to this issue that is unique to the tech industry.</p>
+  <p> I am twenty-three years old and enrolled in a masters program, I have had little industry experience. This lack of access to a production environment has been the largest road-block in my curriculum. However, I think I have found a solution to this issue that is unique to the tech industry.</p>
   
   <p>Thanks to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last few months, I have deployed servers on DigitalOcean to host my website, build machine learning environments, and house MySQL databases. All of these are  practical applications relevant to the day to day of a data scientist or machine learning engineer.</p>
 

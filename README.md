@@ -68,7 +68,9 @@ Medium is a blogging platform where writers and readers share their ideas. This 
 <p>
 By collecting data on one million Medium stories, I was able to analyze the performance Medium's articles. As a result of this project, I found that the top 1% of Medium articles receive two thousand claps. Authors can use this metric as a goal when writing future stories. By achieving the top 1% of claps, a writer's story is more likely to stand out to Medium's recommendation engine, and as a result, reach new and diverse audiences.  </p>
 
- <p>The results of my analysis, along with an extensive exploratory data analysis of Medium, can be found in <a href="https://github.com/harrisonjansma/Analyzing_Medium">this repository</a>. For a reader-friendly summary, look at the article I published in freeCodeCamp, Medium's largest tech publication. You can find the full article <a href="https://github.com/harrisonjansma/Analyzing_Medium">here</a>. </p>
+ <p>The results of my analysis, along with an extensive exploratory data analysis of Medium, can be found in <a href="https://github.com/harrisonjansma/Analyzing_Medium">this repository</a>.  
+  
+I also wrote a story detailing my findings in Medium's largest tech publication, freeCodeCamp (496k subscribers). The full article can be found <a href="https://medium.freecodecamp.org/how-i-analyzed-a-million-medium-articles-to-learn-how-many-claps-great-stories-get-d688cf92759f">here.</a> I then published the full data-set for public use by Medium's data-science community. All 1.4 million data points are freely available on Kaggle. My introductory article, describing the dataset and how I collected it, can be found <a href="https://towardsdatascience.com/i-just-published-a-massive-dataset-of-medium-stories-heres-the-link-to-get-it-889bab324138">here.</a> </p>
 
 October 10, 2018
 

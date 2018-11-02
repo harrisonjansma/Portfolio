@@ -56,7 +56,7 @@ Hi, my name is Harrison Jansma.
 
 <hr>
 
-### [Scraping and Analyzing a Million Medium Stories](https://github.com/harrisonjansma/Analyzing_Medium)
+### [Scraping and Analyzing 1.4 Million Medium Stories](https://github.com/harrisonjansma/Analyzing_Medium)
 
 <p align="center">
 <a href="https://github.com/harrisonjansma/Analyzing_Medium"><img src="images/card3.png"></a></p>
@@ -74,7 +74,6 @@ I also wrote a story detailing my findings in Medium's largest tech publication,
 
 October 10, 2018
 
-<hr>
 
 <hr>
 

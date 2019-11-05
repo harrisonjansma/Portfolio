@@ -1,7 +1,7 @@
 
 
 
-# A Self-Taught Data Scientist
+# Portfolio
 <p align="center">
   
 <img src="images/harrison.png" height=300></p>

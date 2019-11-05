@@ -10,11 +10,9 @@ Hi, my name is Harrison Jansma.
 
 
 
-<p>At the beginning of 2018 I was in a new city at a dead end job. After some serious self-reflection about my passions and interests, I committed to learning everything I could about machine learning, data science, and the tech industry. I built my own curriculum, a hodgepodge of hundreds of websites and forums, and committed between 4-6 hours each day to learn the basics.</p>
+<p>I am an avid FPS competitive gamer, sci-fi reader, and student. I love to learn about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. Much of my experience revolves around building machine learning applications, but I also strive to gain a deeper understanding of the world so that I can expand my skillset and build new and amazing things.</p>
 
-<p>Fast forward to today where I have enrolled in an excellent computer science program. I now publish my own blog posts to help others learn about everything from data science to deep learning. I am excited by all the things I have learned over the last few months, and I love that I get to work on something I am passionate about each day.</p>
 
-<p>I still have a long way to go, though. The next few months I will focus on teaching others and implementing machine learning models in real world production systems. I further hope to get internship experience so I can engage with other like-minded people and get more experience building intelligent systems for use in the real-world.</p>
 
 
 
@@ -25,9 +23,8 @@ Hi, my name is Harrison Jansma.
 <p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
   
-  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. I believe that knowledge of <b>both data science and back-end development</b> is the secret to a seamless implementation of artificial intelligence in existing web technologies.</p>
+  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. Though I did learn a lot from making this website, much of the joy that came from this project was found making something of my own and putting it out into the world.</p>
   
-  <p> In the future, I will use this website as a nesting ground for web-based computer vision and NLP models. Though I don't expect it to be anything more than a portfolio site, I strongly suspect that these skills will be crucial to technological development in the years to come.</p>
   
 <hr>
 
@@ -37,9 +34,8 @@ Hi, my name is Harrison Jansma.
 <a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
   
   
-  <p> All my life I have been an avid sci-fi and fantasy reader.  Very recently I have begun writing about my research, thoughts, and  experiences and publishing them for the world to see. Though my creative output is a work in progress, my blog posts about data science and deep learning have been well received. </p
   
-  <p>I have been published in multiple major data-science and analytics publications; including <a href="https://medium.freecodecamp.org/@harrisonjansma">freeCodeCamp</a> (500k subscribers), <a href="https://towardsdatascience.com/@harrisonjansma">Towards Data Science</a>, and <a href="https://www.kdnuggets.com/2018/10/learn-data-science-broke.html">KDNuggets</a>. I have also built my own following of 1500 subscribers.</p>
+  <p>I write because I love to teach. Though writing has fallen on my backburner with work and school, in the past I have been published in multiple major data-science and analytics publications; including <a href="https://medium.freecodecamp.org/@harrisonjansma">freeCodeCamp</a> (500k subscribers), <a href="https://towardsdatascience.com/@harrisonjansma">Towards Data Science</a>, and <a href="https://www.kdnuggets.com/2018/10/learn-data-science-broke.html">KDNuggets</a>..</p>
 
 <hr>
 
@@ -47,12 +43,10 @@ Hi, my name is Harrison Jansma.
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
-  <p> I am twenty-three years old and enrolled in a masters program, I have had little industry experience. This lack of access to a production environment has been the largest road-block in my curriculum. However, I think I have found a solution to this issue that is unique to the tech industry.</p>
-  
-  <p>Thanks to the availability of cheap computational resources, I have found that it is possible for an individual to create their own production systems. In the last few months, I have deployed servers on DigitalOcean to host my website, build machine learning environments, and house MySQL databases. All of these are  practical applications relevant to the day to day of a data scientist or machine learning engineer.</p>
+  <p>For the past 6 months I have been working as a Data Science Intern at Sprint. I was able to get much experience in database manipulation/extraction, ML model development, and business communication. Much of my work was centered around building machine learning applications to predict when business systems fail.</p>
 
 
-# My Work
+# My Past Projects
 
 <hr>
 
